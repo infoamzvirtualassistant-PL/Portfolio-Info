@@ -1,5 +1,4 @@
-[index_Version6 (1).html](https://github.com/user-attachments/files/22265220/index_Version6.1.html)
-<!DOCTYPE html>
+
 <html lang="en">
 <head>
     <meta charset="UTF-8">
@@ -76,7 +75,6 @@
     <script src="script.js"></script>
 </body>
 </html>
-[style_Version6.css](https://github.com/user-attachments/files/22265223/style_Version6.css)
 * {
     margin: 0;
     padding: 0;
@@ -188,7 +186,6 @@ footer {
     background-color: #2c3e50;
     color: white;
 }
-[script_Version6.js](https://github.com/user-attachments/files/22265224/script_Version6.js)
 // Add any interactive elements you'd like, such as smooth scrolling or form validation
 
 // Example: smooth scroll for anchor links (optional)
